@@ -1,0 +1,17 @@
+.my-primary{
+  color: lightYellow ;
+  background-color: red;
+}
+
+.my-primary:focus, .my-primary:hover{
+  color: yellow ;
+  background-color: darkRed;
+}
+
+a.navbar-brand {
+  color: lightYellow ;
+}
+
+.navbar-brand:hover{
+  color: yellow;
+}
